@@ -1,0 +1,16 @@
+{
+    "geode": "5.11.2",
+    "gd": {
+        "win": "2.2081",
+        "android": "2.2081",
+        "mac": "2.2081"
+    },
+    "id": "jaxer14.macro-jump-counter",
+    "name": "Macro Jump Counter",
+    "version": "v1.0.0",
+    "developer": "jaxer14",
+    "description": "Pick a .gdr2 macro and instantly see how many jumps it has, how many frames the jump button is held, click rate, and more.",
+    "tags": [
+        "utility"
+    ]
+}
